@@ -6,7 +6,7 @@ plugins {
     alias(libs.plugins.kotlinx.kover)
 }
 
-group = "io.zenwave360.jsonrefparser"
+group = "io.zenwave360.asyncapi"
 version = "1.0.0-SNAPSHOT"
 
 repositories {
